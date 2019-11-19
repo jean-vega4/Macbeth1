@@ -1,0 +1,140 @@
+* {
+    margin:0;
+    border:none; 
+    padding: 5px;
+    text-align: justify;
+}
+p {
+   padding: 30px;
+    text-align: justify; 
+    height: 40px;
+}
+#stratford {
+    height: 400px;
+    width: 600px;
+}
+#William {
+    text-align: center;
+    
+}
+#macbeth{
+    height; 200px;
+    height:200px;
+}
+#greenrobot {
+  height:100px;
+  position:absolute;
+  left:-200px;
+  animation: slide 10s infinite;
+}
+@keyframes slide {
+  0% { left: -900px;}
+  50% {left: 1500px;}
+  100% { left:-900px;}
+}
+#Will {
+    height: 400px;
+    width: 300px;
+    float:  center;
+}
+#suk{
+    width: 100px;
+}
+h1 {
+  color:rgb(102, 0, 0);
+}
+
+#titulo{
+  background-color: black;
+  height: 40px;
+}
+
+.fila-completa img{
+  width:100px;
+  height:200px;
+}
+* {
+    margin:0;
+    padding:0;
+    border: none;
+}
+.flexCentered {
+    display: flex ;
+    flex-direction: row ;
+    flex-wrap: wrap ;
+    justify-content: space-around ;
+    align-items: center ;
+    align-content: center ;
+}
+.hi50{
+    height:50px;
+    background-color:rgb(20, 219, 201);
+    
+}
+.hi50 a{
+    text-decoration: none;
+    color:white;
+}
+img {
+    width:200px;
+    height:200px;
+}
+.bigImage {
+    width:400px;
+    height:400px;
+}
+.tinyImage{
+     width:50px;
+    height:50px;
+}
+.hi400{
+    height:400px;
+}
+.hi500{
+    height:500px;
+}
+.hi300{
+    height:300px;
+}
+.hi200{
+    height:200px;
+}
+.hi100{
+    height:100px;
+}
+
+.leftCol {
+    float:left;
+}
+.rightCol {
+    float:right;
+}
+.colWidth12-12 {
+    width:100%;
+}
+.colWidth10-12 {
+    width:83.3%;
+}
+.colWidth8-12 {
+    width:66.6%;
+}
+.colWidth6-12 {
+    width:50%;
+}
+.colWidth4-12 {
+    width:33.3%;
+}
+.colWidth3-12 {
+    width:25%;
+}
+.colWidth2-12 {
+    width:16.6%;
+}
+.colWidth1-12 {
+    width:8.3%;
+}
+#title1{
+    width:200px;
+    height:40px;
+}
+
